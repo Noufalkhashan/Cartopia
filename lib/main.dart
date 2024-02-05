@@ -19,18 +19,17 @@ class MainPage extends StatelessWidget {
                   radius: 60.0,
                   //backgroundImage: AssetImage('image/profile.webp'), 
                 ), 
-                //Text(
-                //),
+                TextField(
+                ),
                 SizedBox( 
                   height: 20.0,
-                  width: 150.0,
+                  width: 20.0,
                   child: Divider( 
                     //color: Colors.teal[100] 
                   ),
                 ),
-                //Text(
-                  
-                //),
+                TextField(
+                ),
               ],
           )
         )
